@@ -1,5 +1,4 @@
-🌞 Novadeep Solar Solutions - Static Website
-https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80
+🌞 #Novadeep Solar Solutions - Static Website
 
 🚀 Overview
 A modern, mobile-first static website for Novadeep Solar Solutions, showcasing their solar energy services with beautiful animations and interactive elements. This responsive design prioritizes mobile viewing while delivering an engaging desktop experience.
